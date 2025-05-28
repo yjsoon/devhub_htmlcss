@@ -1,0 +1,35 @@
+html {
+  background: hotpink;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: rgb(255, 213, 0);
+  text-shadow: 5px 5px 10px turquoise;
+}
+
+#top-fruits {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+#block1 {
+  background: purple;
+  padding: 20px;
+  margin: 30px;
+  border: 5px solid black;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px limegreen;
+}
+
+img {
+  width: 30%;
+}
